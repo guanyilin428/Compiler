@@ -1,0 +1,6 @@
+//test mulc
+const int a = 5;
+int main(){
+    putint(a * 5);
+    return 0;
+}

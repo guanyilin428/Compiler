@@ -1,0 +1,7 @@
+// test hexadecimal define
+int main(){
+    int a;
+    a = 0xf;
+    putint(a);
+    return 0;
+}
